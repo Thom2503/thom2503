@@ -11,7 +11,7 @@
 <b>School:</b> Grafisch Lyceum Rotterdam
 </li>
 <li>
-<b>Hobbys:</b> Programming, listening to music, gaming and browsing the web!
+<b>Hobbyies:</b> Programming, listening to music, gaming and browsing the web!
 </li>
 </div>
 <div>
