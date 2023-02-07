@@ -1,7 +1,4 @@
 # Welcome to my profile!
-<div align="center">
-  <img max-width="800" src="https://raw.githubusercontent.com/Thom2503/thom2503/master/assets/birb_header.png"/>
-</div>
 <div>
 <h2 align="center"> About me:</h2>
 <img src="https://media.giphy.com/media/JxFmWGrmynlCg/source.gif" align="right">
