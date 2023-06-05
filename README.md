@@ -11,23 +11,6 @@
 <b>Hobbies:</b> Programming, listening to music, gaming and browsing the web!
 </li>
 </div>
-<div>
-<h2 align="center"> Knowledge:</h2>
-<li>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-</li>
-<li>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></li>
-<li>
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-</li>
-<li>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</li>
-<li>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-</li>
-</div>
 <div allign="center">
 <h2 align="center"> Socials:</h2>
  <a target="_blank" href="https://twitter.com/Thom2503"><img src="https://img.shields.io/badge/Thom2503%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /></a><br>
