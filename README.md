@@ -39,7 +39,6 @@
 - all data is suspect
 - entropy is a resource
 - trust nothing; repair everything
-- complexity should collapse
 
 ---
 
@@ -47,7 +46,7 @@
 
 > send your message as a malformed packet.  
 > if it finds me, I will answer.
-> look at [thomveldhuis.xyz](thomveldhuis.xyz)
+> look at [thomveldhuis.xyz](https://www.thomveldhuis.xyz/#contact)
 
 ---
 
