@@ -8,6 +8,7 @@
 
 - **tlisp** lisp interpreter in C
 - **plants** l-systems
+- **roguelike** a simple roguelike
 
 ---
 
