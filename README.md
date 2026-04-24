@@ -7,8 +7,9 @@
 ## current projects
 
 - **tlisp** lisp interpreter in C
-- **plants** l-systems
-- **roguelike** a simple roguelike
+- **plants** l-systems using Python turtle graphics
+- **roguelike** a simple roguelike using monogame
+- **thomthomthom** txt based wiki, notes site in _pure_ PHP
 
 ---
 
