@@ -8,7 +8,8 @@
 
 - **tlisp** lisp interpreter in C
 - **plants** l-systems using Python turtle graphics
-- **roguelike** a simple roguelike using monogame
+- **roguelike** a simple roguelike using monogame  ![Status](https://img.shields.io/badge/status-obsolete-red)
+- **all-rogue-all-random** new simple roguelike that is all random 
 - **thomthomthom** txt based wiki, notes site in _pure_ PHP
 
 ---
